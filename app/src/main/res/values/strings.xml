@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Implementing_Onclick</string>
+    <string name="button_name1">First Button</string>
+    <string name="button_name2">Second Button</string>
+</resources>
